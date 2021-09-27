@@ -1,0 +1,4 @@
+Students study core data structures and algorithms, such as arrays, stacks, lists, queues, 
+trees, hash tables, graphs; search and sort. Students engage on projects that involve individually 
+chosen advanced data structures and algorithms. The focus is on applications of data structures 
+and algorithms, utilization of existing practical data sets, and performance tradeoffs.
